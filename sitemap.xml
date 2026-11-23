@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://fantastic-funicular-delta.vercel.app/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://fantastic-funicular-delta.vercel.app/assets/images/moch-akmal-almagribi-developer.png</image:loc>
+      <image:title>Moch Akmal Almagribi - Full-Stack Web &amp; AI Developer</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://fantastic-funicular-delta.vercel.app/assets/images/moch-akmal-almagribi-ai-engineer.png</image:loc>
+      <image:title>Moch Akmal Almagribi - AI &amp; Software Engineer</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://fantastic-funicular-delta.vercel.app/assets/images/moch-akmal-almagribi-computer-vision.png</image:loc>
+      <image:title>Moch Akmal Almagribi - Computer Vision Developer</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://fantastic-funicular-delta.vercel.app/assets/images/moch-akmal-almagribi-portofolio.png</image:loc>
+      <image:title>Portofolio Moch Akmal Almagribi - Web &amp; AI</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://fantastic-funicular-delta.vercel.app/assets/images/moch-akmal-almagribi-project.png</image:loc>
+      <image:title>Dokumentasi Proyek Moch Akmal Almagribi</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://fantastic-funicular-delta.vercel.app/assets/images/gemini-mathsolver-moch-akmal-almagribi.png</image:loc>
+      <image:title>Gemini-MathSolver oleh Moch Akmal Almagribi</image:title>
+    </image:image>
+  </url>
+</urlset>

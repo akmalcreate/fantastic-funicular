@@ -2,7 +2,7 @@
 
 Web edukasi interaktif tentang ekosistem laut. Laut dalam web ini **rusak sedikit demi sedikit sesuai waktu nyata** sejak pengguna pertama kali membuka halaman. Pengguna bisa mengetuk ikan untuk belajar tentang spesiesnya, dan membaca materi yang terbuka seiring kondisi laut memburuk.
 
-🔗 **Demo:** https://GANTI-DENGAN-URL-VERCEL-KAMU.vercel.app
+🔗 **Demo:** [https://fantastic-funicular-delta.vercel.app/]
 
 > Dibuat dengan bantuan Claude (Anthropic). Dirancang dan dikembangkan oleh **Moch Akmal Almagribi**.
 
